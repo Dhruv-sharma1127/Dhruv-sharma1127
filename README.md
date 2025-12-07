@@ -9,13 +9,9 @@ Learning Java & DSA | Focused on building real-world projects.
 ## 🚀 Skills & Tools
 
 ### *Programming Languages*
-- Java  
-- C Basics  
-- JavaScript  
-
+- Java, C Basics,JavaScript  
 ### *Core Subjects*
 - Data Structures & Algorithms (DSA)  - Computer Science Fundamentals
-
 ### *Web Development*
 - HTML,CSS,JavaScript  
 ### *Tools & Platforms*
