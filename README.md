@@ -1,7 +1,9 @@
 👋 Hi, I'm Dhruv Sharma
 
-🌱Computer Science student @GLA University
-Passionate about Full Stack Development, Open Source, and Cloud Computing.  
+🌱 Computer Science student @GLA University 
+
+Passionate about Full Stack Development, Open Source, and Cloud Computing. 
+
 Learning Java & DSA | Focused on building real-world projects.
 
 ---
